@@ -1,0 +1,1 @@
+Electricity.new_customer

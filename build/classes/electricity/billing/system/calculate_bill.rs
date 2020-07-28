@@ -1,0 +1,1 @@
+Electricity.calculate_bill
